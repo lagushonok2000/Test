@@ -1,2 +1,3 @@
 def printHello():
+    a = 3 + 18
     return "Hello!"
