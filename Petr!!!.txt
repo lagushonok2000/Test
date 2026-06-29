@@ -1,2 +1,2 @@
-Hello pals
-Vector
+def printHello():
+    return "Hello!"
