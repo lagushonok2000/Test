@@ -1,1 +1,2 @@
-Hello pals
+def printHello():
+    return "Hello!"
